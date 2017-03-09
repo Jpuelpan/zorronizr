@@ -1,0 +1,11 @@
+{
+  "name": "zorronizr",
+  "version": "0.1.0",
+  "description": "Zorronizr",
+  "main": "src/index.js",
+  "author": "Juan Puelpan",
+  "license": "MIT",
+  "keywords": [
+    "Zorron"
+  ]
+}
